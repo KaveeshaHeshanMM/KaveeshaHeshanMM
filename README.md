@@ -10,8 +10,8 @@ I enjoy building software that solves real-world problems, and I'm especially in
 
 ## Featured work
 
-### AquaTick – Smart Fish Farming System
-*IoT · AI · Mobile App* · [aquatick.org](https://www.aquatick.org)
+### [AquaTick – Smart Fish Farming System](https://github.com/KaveeshaHeshanMM/AquaTick)
+*IoT · AI · Mobile App* · [Website](https://www.aquatick.org) · [My Flutter screens](https://github.com/KaveeshaHeshanMM/AquaTick)
 
 An AI-powered fish-farming management system built as our Software Development Group Project at IIT.
 
@@ -28,8 +28,8 @@ My role: Co-Founder and Lead Developer (system design, requirement analysis, mac
 Contributing to a full-stack web application that reconciles the bank's general ledger against Mastercard, Visa and LankaPay settlement files, with a multi-stage matching engine, mismatch diagnostics, dashboards and reports.
 
 ### Other projects
-- **UN SDG 3 Website** – responsive website promoting good health and well-being (HTML, CSS, JavaScript)
-- **Traffic Control Center Software** – Python application focused on efficiency and scalability
+- **[UN SDG 3 Website](https://github.com/KaveeshaHeshanMM/UN-SDG3-Good-Health-Website)** – multi-page website promoting good health and well-being (HTML, CSS, JavaScript) · [Live demo](https://kaveeshaheshanmm.github.io/UN-SDG3-Good-Health-Website/)
+- **Traffic Control Center** – Python traffic survey data analysis with a Tkinter hourly histogram *(university coursework – code available on request)*
 
 ---
 
