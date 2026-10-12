@@ -32,7 +32,7 @@ Supporting the team building an in-house web application that reconciles card se
 - **[User Management CRUD](https://github.com/KaveeshaHeshanMM/React-Flask-CRUD)** – full-stack CRUD app with a React frontend, Flask REST API and MySQL database
 - **CrossMath Game** – Android number puzzle game with a random puzzle generator, advanced level, scoring and timer (Kotlin, Jetpack Compose)
 - **Meal Finder** – Android recipe app that searches TheMealDB API and saves meals to a local Room database for offline search (Kotlin, Jetpack Compose, Room)
-- **Graph Cycle Detection** – Java program that checks if a directed graph is acyclic using sink elimination and finds a cycle with DFS
+- **Graph Cycle Detection** – Java program that checks if a directed graph is acyclic using sink elimination and finds a cycle with DFS, tested on benchmark graphs with 10,000+ vertices
 - **Traffic Control Center** – Python traffic survey data analysis with a Tkinter hourly histogram
 
 *University coursework projects are kept private – code available on request.*
