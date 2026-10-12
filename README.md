@@ -13,26 +13,26 @@ I enjoy building software that solves real-world problems, and I'm especially in
 ### [AquaTick – Smart Fish Farming System](https://github.com/KaveeshaHeshanMM/AquaTick)
 *IoT · AI · Mobile App* · [Website](https://www.aquatick.org) · [My Flutter screens](https://github.com/KaveeshaHeshanMM/AquaTick)
 
-An AI-powered fish-farming management system built as our Software Development Group Project at IIT.
+A smart fish-farming management system built by a team of six as our Software Development Group Project at IIT.
 
 - Automated feeding that analyses fish behaviour in real time to reduce feed waste
 - IoT-based water-quality monitoring and live video
 - Mobile app for centralised farm management and data-driven insights
-- Pitched in the **Hult Prize Qualifier Round** and to a panel of **US delegates**; met with **NAQDA** for expert guidance
+- As a team, pitched in the **Hult Prize Qualifier Round** and to a panel of **US delegates**, and met with **NAQDA** for guidance
 
-My role: Co-Founder and Lead Developer (system design, requirement analysis, machine-learning features).
+My part: Co-Founder. I built the Flutter mobile app screens for the pond dashboard and the live water quality charts (Firebase Realtime Database).
 
 ### Card Settlement Reconciliation App – NSB internship
 *Internal bank system – code is not public*
 
-Contributing to a full-stack web application that reconciles the bank's general ledger against Mastercard, Visa and LankaPay settlement files, with a multi-stage matching engine, mismatch diagnostics, dashboards and reports.
+Supporting the team building an in-house web application that reconciles card settlement files against the bank's general ledger. I help with testing during UAT, bug tracking in ClickUp and preparing user guides for the Finance Department.
 
 ### Other projects
 - **[UN SDG 3 Website](https://github.com/KaveeshaHeshanMM/UN-SDG3-Good-Health-Website)** – multi-page website promoting good health and well-being (HTML, CSS, JavaScript) · [Live demo](https://kaveeshaheshanmm.github.io/UN-SDG3-Good-Health-Website/)
 - **[User Management CRUD](https://github.com/KaveeshaHeshanMM/React-Flask-CRUD)** – full-stack CRUD app with a React frontend, Flask REST API and MySQL database
 - **CrossMath Game** – Android number puzzle game with a random puzzle generator, advanced level, scoring and timer (Kotlin, Jetpack Compose)
 - **Meal Finder** – Android recipe app that searches TheMealDB API and saves meals to a local Room database for offline search (Kotlin, Jetpack Compose, Room)
-- **Graph Cycle Detection** – Java program that checks if a directed graph is acyclic using sink elimination and finds a cycle with DFS, tested on graphs with 10,000+ vertices
+- **Graph Cycle Detection** – Java program that checks if a directed graph is acyclic using sink elimination and finds a cycle with DFS
 - **Traffic Control Center** – Python traffic survey data analysis with a Tkinter hourly histogram
 
 *University coursework projects are kept private – code available on request.*
