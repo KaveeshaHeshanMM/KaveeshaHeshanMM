@@ -20,7 +20,7 @@ A smart fish-farming management system built by a team of six as our Software De
 - Mobile app for centralised farm management and data-driven insights
 - As a team, pitched in the **Hult Prize Qualifier Round** and to a panel of **US delegates**, and met with **NAQDA** for guidance
 
-My part: Co-Founder. I built the Flutter mobile app screens for the pond dashboard and the live water quality charts (Firebase Realtime Database).
+My part: Co-Founder and Lead Developer. I built the Flutter mobile app screens for the pond dashboard and the live water quality charts (Firebase Realtime Database).
 
 ### Card Settlement Reconciliation App – NSB internship
 *Internal bank system – code is not public*
